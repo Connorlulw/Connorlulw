@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Connorlulw
-- 👀 I’m interested in Music, Motorcycles and of course coding 
+- Hi, I’m Ronny, a 15 year old stunden from germany
+- I’m interested in Music, Motorcycles and of course coding 
 
 <!---
 Connorlulw/Connorlulw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
